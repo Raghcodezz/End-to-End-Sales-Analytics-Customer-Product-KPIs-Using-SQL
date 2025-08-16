@@ -12,7 +12,7 @@ The business was unable to analyze customer behavior and product performance, le
 2) **Product Performance**:
    - Unable to track sales trends over time.
    - Unable to segment products into high selling, low selling, etc.
-   - Without recency and lack of product KPIs such as average order value, average monthly revenue, we cannot decide how the product is performing, which can lead to overstocking and understocking.
+   - Without recency and lack of product KPIs such as average order value, average monthly spend of each customer, we cannot decide how the product is performing, which can lead to overstocking and understocking.
 
 ## Goal of the Project
 
